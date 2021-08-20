@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Allison&display=swap');
+
+body {
+    background-color: #FEFFE2;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 5px;
+    border-color: #DAD5AB;
+    width: 3%
+}
+
+h1,h3{
+    color: #C3BA85;
+}
